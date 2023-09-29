@@ -54,7 +54,31 @@
 * Reusability is extreemely simple and terraform can also handle
   multiple environments (Developer, QA, UAT/Staging/Production).
 
+  ###### DAY 2
+
+* ### Terraform 
   
+* Terraform is an opensource tool developed by HashiCorp which can 
+  create infra in almost any virtual platform
+* Terraform uses a language which is called as 
+  `Hashicorp Configuration   Language (HCL)` to express desired State.
+
+## Terms
+
+* Resource: This is the infrastructure which you want to create
+* Provider: This refers to where you want to create infrastructure
+* The inputs which we express in teraform are called as `arguments`
+* The output given by terraform is referred as `attribute`
+  
+  ## Installing terraform
+ 
+* Refer Here @https://developer.hashicorp.com/terraform/downloads 
+* We have executed the commands in following order
+  ![preview](images/Terraform3.jpg)
+  ![preview](images/Terraform4.jpg)
+  ![preview](images/Terraform5.jpg)
+
+
 
 
 
